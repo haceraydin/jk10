@@ -7,6 +7,8 @@ public class Student {
 
         System.out.println("meogrt");
 
+        System.out.println("meogrt2");
+
     }
 
 }
