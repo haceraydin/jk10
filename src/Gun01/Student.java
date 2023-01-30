@@ -11,6 +11,7 @@ public class Student {
 
         System.out.println("meogrt3");
 
+        System.out.println("sdsds");
     }
 
 }
