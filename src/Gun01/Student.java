@@ -9,6 +9,8 @@ public class Student {
 
         System.out.println("meogrt2");
 
+        System.out.println("meogrt3");
+
     }
 
 }
